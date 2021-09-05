@@ -80,7 +80,7 @@ Attempts to directly model insulin sensitivity by all other metabolites were uns
 
 The same low accuracy (11.76%) was obtained by the model with these four predictors as that obtained with a model using only arachidonyl carnitine as a predictor (Table 6).  In contrast, prediction accuracy slightly rose to 17.65% when only inosine-5’-phosphate was used as the sole predictor of insulin sensitivity (not shown).
 
-<img src="images/table6.png">
+<img src="images/table6.png" width=220px>
 
 ## Discussion
 
